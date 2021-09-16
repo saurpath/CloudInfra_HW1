@@ -1,2 +1,2 @@
-![image](Images/ Managing merge conflicts .png)
-![image](Images/ Managing merge conflicts-Final.png)
+![image](Images/%20Managing%20merge%20conflicts.png)
+![image](Images/%20Managing%20merge%20conflicts-Final.png)
